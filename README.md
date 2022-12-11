@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nikvohsap
-- 👀 I’m interested in Java
+- 👀 I’m interested in JavaScript
 
 <!---
 nikvohsap/nikvohsap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
